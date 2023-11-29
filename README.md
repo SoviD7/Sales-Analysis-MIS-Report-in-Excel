@@ -15,6 +15,7 @@ With the help of Data Modeling, join the tables with the help of primary and for
  Total Lead, Expected Amount from Converted Leads, Conversion Rate, Converted Accounts, Converted Opportunities, Lead By Source, Lead By industry
 
  ![Alt text](https://github.com/SoviD7/CRM-Data-Analytics/blob/main/WhatsApp%20Image%202023-10-19%20at%207.13.28%20PM.jpeg?raw=true)
+ ![Alt text](https://github.com/SoviD7/CRM-Data-Analytics/blob/main/WhatsApp%20Image%202023-10-20%20at%202.00.44%20PM.jpeg?raw=true)
 
 
 
