@@ -47,3 +47,7 @@ Provided Actionable Insights:
 
 Delivered actionable insights to stakeholders through detailed sales and profitability analyses.
 Enabled informed decision-making, resulting in a 15% increase in strategic decisions based on data insights.
+
+## 4. MIS Report
+
+![Alt Text](SS.jpg)
