@@ -1,4 +1,4 @@
-# Project Title: Sales Analysis and Reporting
+# Project Title: Sales Analysis and MIS Reporting
 
 ## 1. What is the project all about?
 
